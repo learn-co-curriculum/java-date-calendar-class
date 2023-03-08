@@ -151,7 +151,7 @@ public class CalendarExample {
 
 There are other fields that we can get from the `Calendar` class as well. For
 a full list, review the Java documentation here and see the "Field Summary"
-section: [Java 11 Calendar Class](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Calendar.html).
+section: [Java 17 Calendar Class](https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Calendar.html).
 Some of the more important fields can be found in the table below:
 
 | Field        | Description                                        |
