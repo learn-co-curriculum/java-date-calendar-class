@@ -81,8 +81,8 @@ If we take a look at the Java documentation for the `Date` class here:
 we see nearly every constructor and method is deprecated. This is due to the
 shortcomings of the `Date` class. The `Date` class once "allowed the formatting
 and parsing of date strings. Unfortunately, the API for these functions was not
-amenable to internalization." With that said, Java decided to introduce a new
-class to handle these limitations and work with the `Date` class.
+amenable to internationalization." With that said, Java decided to introduce a
+new class to handle these limitations and work with the `Date` class.
 
 ## Java's `Calendar` Class
 
