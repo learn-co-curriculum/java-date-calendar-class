@@ -185,7 +185,7 @@ public class CalendarExample {
 
 An example output could be something like this:
 
-```plaintext
+```text
 Mon Sep 12 18:31:02 MDT 2022
 ```
 
@@ -239,7 +239,7 @@ public class CalendarExample {
 
 Upon running the code, we might have an output that looks something like this:
 
-```plaintext
+```text
 Mon Sep 12 06:53:41 MDT 2022
 Mon Sep 12 06:53:41 MST 1955
 Sat Nov 05 06:53:41 MST 1955
@@ -277,7 +277,7 @@ public class CalendarExample {
 
 The output of the above code may look like this:
 
-```plaintext
+```text
 Sat Nov 05 06:15:00 MST 1955
 Tue Nov 05 06:15:00 MST 1985
 ```
